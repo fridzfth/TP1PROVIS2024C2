@@ -47,3 +47,10 @@
 ### Fungsi Utama:
 
 - Fungsi `main` menunjukkan pemrograman asynchronous menggunakan `await` untuk transfer akun.
+
+### Screenshots:
+![ss1](https://github.com/fridzfth/TP1PROVIS2024C2/blob/56e8fb78c2d66a5b6a6778bdf960c1fef008659e/Screenshots/Screenshot%202024-03-12%20114602.png)
+![ss2](https://github.com/fridzfth/TP1PROVIS2024C2/blob/56e8fb78c2d66a5b6a6778bdf960c1fef008659e/Screenshots/Screenshot%202024-03-12%20114625.png)
+![ss3](https://github.com/fridzfth/TP1PROVIS2024C2/blob/56e8fb78c2d66a5b6a6778bdf960c1fef008659e/Screenshots/Screenshot%202024-03-12%20114645.png)
+![ss4](https://github.com/fridzfth/TP1PROVIS2024C2/blob/56e8fb78c2d66a5b6a6778bdf960c1fef008659e/Screenshots/Screenshot%202024-03-12%20114703.png)
+![ss5](https://github.com/fridzfth/TP1PROVIS2024C2/blob/56e8fb78c2d66a5b6a6778bdf960c1fef008659e/Screenshots/Screenshot%202024-03-12%20114720.png)
